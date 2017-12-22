@@ -1,0 +1,6 @@
+name: Informator
+main: ua.leonidius.informator.Main
+description: Info alerts for players
+version: "1"
+api: ["1.0.0"]
+author: Leonidius20
