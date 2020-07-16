@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="Informator">
-    <output-path>D:/Nukkit/plugins</output-path>
-    <root id="archive" name="Informator.jar">
-      <element id="module-output" name="Informator" />
-    </root>
-  </artifact>
-</component>

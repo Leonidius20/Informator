@@ -1,6 +1,7 @@
 name: Informator
 main: ua.leonidius.informator.Main
-description: Info alerts for players
+description: Info alerts customization
 version: "1"
 api: ["1.0.0"]
 author: Leonidius20
+url: https://github.com/Leonidius20/Informator
