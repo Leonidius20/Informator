@@ -1,4 +1,7 @@
 # Informator
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1c391f54586147c6965c724febc06a56)](https://app.codacy.com/manual/Leonidius20/Informator?utm_source=github.com&utm_medium=referral&utm_content=Leonidius20/Informator&utm_campaign=Badge_Grade_Settings)
+![](https://github.com/Leonidius20/Informator/workflows/Build/badge.svg)
+
 A plugin for [NukkitX][nukkitx] server software for Minecraft Bedrock Edition, which allows customizing messages displayed when a player joins the game, leaves it or dies. The plugin also adds customizable messages about players getting banned or kicked. The customizable properties of messages include the color and the way of displaying (in the chat, as a popup or not displaying at all).
 
 ## Installation
