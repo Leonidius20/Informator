@@ -27,6 +27,6 @@ jobs:
     - name: Upload artifacts
       if: ${{ success() }}
       uses: actions/upload-artifact@v2
-       with:
+      with:
          name: Informator.jar
          path: staging
