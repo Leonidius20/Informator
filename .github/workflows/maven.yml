@@ -33,4 +33,4 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
          name: Informator
-         path: target/informator-1.0-SNAPSHOT.jar
+         path: target/*.jar
