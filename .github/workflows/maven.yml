@@ -28,5 +28,5 @@ jobs:
       if: ${{ success() }}
       uses: actions/upload-artifact@v2
       with:
-         name: Informator.jar
-         path: staging
+         name: Informator
+         path: staging/*.jar

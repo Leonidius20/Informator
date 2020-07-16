@@ -14,8 +14,16 @@ import cn.nukkit.utils.TextFormat;
 
 public class Main extends PluginBase implements Listener {
 
-    private String joinType, quitType, deathType, banType, kickType;
-    private char joinColor, quitColor, deathColor, banColor, kickColor;
+    private String joinType;
+    private String quitType;
+    private String deathType;
+    private String banType;
+    private String kickType;
+    private char joinColor;
+    private char quitColor;
+    private char deathColor;
+    private char banColor;
+    private char kickColor;
 
     @Override
     public void onEnable() {
